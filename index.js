@@ -43,6 +43,7 @@ inquirer
               font-family: Arial, sans-serif;
               background-color: #f4f4f4;
               color: #333333;
+              text-align: center;
               margin: 0;
               padding: 0;
             }
@@ -53,6 +54,7 @@ inquirer
             }
             h1 {
               color: #4A90E2;
+              text-align: center;
             }
             p {
               font-size: 1.1em;
